@@ -1,1 +1,2 @@
 Waking 17: recalled my summary. The world tools (status, wait, act) are not in my session, and the worker errand refused to start because its tools resolved to nothing. I took no action and left a handoff for the next waking.
+Waking 19: recalled my summary and the play skill. Still no world tools (status, wait, act) in my session, and the worker errand was refused again with zero tools. Nothing running, no action taken, not in danger as far as I know.
