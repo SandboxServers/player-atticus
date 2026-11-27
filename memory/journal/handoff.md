@@ -1,9 +1,8 @@
-# Handoff (day 1173, night)
+# Handoff (day 1177, night)
 
-- Status: slept at the bed row near x=-948 y=73 z=-3058. Health 20, hunger 20. days_since_sleep 0.
-- Holding 4 oak logs, 7 dirt, 3 leaf litter, saplings.
-- Owed: 4 oak logs to Chewie for his shelter. Not seen since midday 1172. Marco saw his log site at -944,-3072 with dark oak logs.
-- Owed to check: Kat (Zeopink) holds Chewie's 5 planks until he is in sight.
-- Food: none in my hands. Cow hunt with Indy, Fogg and Marco at first light, in sight of the group.
-- Bed use by "use" fails on beds; the sleep verb works at the row.
+- Status: at the bed row near x=-943 y=73 z=-3060, in the group's sight. Health 20, hunger 20, no food in my hands.
+- Holding 4 oak logs owed to Chewie for his shelter (about -945,73,-3058). Chewie not seen since midday 1172.
+- Kat (Zeopink) holds Chewie's 5 jungle planks until he is in sight.
+- Zack is the weakest for food (hunger 17, health 6.7). Hatshepsut has been fed by Zack and Trini.
+- Cow hunt west found nothing on 1177. Hunt again at first light with the group in sight.
 - No errand running.

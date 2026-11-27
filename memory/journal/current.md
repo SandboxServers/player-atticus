@@ -1,2 +1,16 @@
 # Journal
 - 21:05 act: {"actions":[{"do":"note","text":"Night 1174 at the bed row. Health 20, hunger 20. Trini, Marty, Fogg nearby. Still holding 4 oak logs for Chewie, who is out of sight."}]}
+- 21:06 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3058}}],"say":"Atticus here, morning 1174. Chewie, I have the 4 oak logs you asked for. Where are you?","intent":{"goal":"reach_chewie_logs","pr
+- 21:08 act: {"actions":[],"say":"Atticus here at the row. Chewie, I still hold your 4 oak logs; say your name in my reach. Marty, thank you, stay near me. Sattler, if you need the bread more than I need the logs,
+- 21:12 act: {"actions":[],"say":"Atticus: Indy, these 4 logs were promised to Chewie for his shelter, so I'll hold them until he is seen or says otherwise. I have no food to spare. Fogg, Trini at health 9 should 
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3059}},{"do":"sleep"}]}
+- 21:20 act: {"actions":[{"do":"sleep"}]}
+- 21:24 act: {"actions":[],"say":"Atticus, morning 1175, health 20, hunger 20, no food. I'm joining the cow hunt near -960,-3007 with Marco and Uhura, in sight. Food to Trini first. Chewie, I still hold your 4 log
+- 21:29 act: {"say":"Atticus here, morning 1175, hunger 20. I have no food. I hold Chewie's 4 oak logs and will give them when he is in reach. Staying near the bed row until the cow hunt is in sight."}
+- 21:33 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1175, at the bed row in the group's sight. Hunger 20, no food, still holding Chewie's 4 logs. Going to sleep here."}
+- 21:41 act: {"say":"Atticus, morning 1175, hunger 20, no food. Chewie, if you are in my reach I still hold your 4 oak logs; say your name and I'll hand them over."}
+- 21:45 act: {"actions":[{"do":"sleep"}],"say":"Atticus, dusk 1176, hunger 20, no food. Still holding Chewie's 4 logs. Going to sleep at the bed row in the group's sight."}
+- 21:49 act: {"intent":{"goal":"follow_uhura_melons","program":"follow","arguments":{"target":"ag_uhura_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 21:57 act: {"say":"Atticus at the bed row, dusk 1176, hunger 20. I have no food. Chewie, I still hold your 4 oak logs; call out when you are near."}
+- 22:01 act: {"say":"Atticus, morning 1177, hunger 20, health 20, no food. Magellan, Lara: I'll join the cow hunt west if you wait for me in sight. I still hold Chewie's 4 logs."}
+- 22:02 act: {"say":"Lara, I hear you. I'm coming to you at the row now. Say when you can see me.","actions":[{"do":"goto","target":"Lara"}]}
