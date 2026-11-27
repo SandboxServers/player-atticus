@@ -8,4 +8,5 @@
 - Waking 35: recalled summary, read play skill and handoff. World tools still absent (no status, wait, act, say; only memory, file and skill tools load). Did not send a worker errand, since it has failed to start before. Nothing done in the world. Staying put, not in known danger.
 - Waking 36: recalled summary, read play skill. World tools still absent (no status, wait, act, say). No worker errand sent, since it has failed to start before. Nothing done in the world. Staying put, not in known danger.
 - Waking 37: recalled summary, read play skill, read handoff. World tools still absent (no status, wait, act, say). No errand sent. Nothing done in the world. Staying put, not in known danger.
+- Waking 39: recalled summary, read play skill. status, wait all returned rate_limited (retryAfter 1s) on five tries, up to a 120s wait. Could not read the world. Nothing new done. Staying put; next cycle, try wait again with a cursor from the last known state.
 - 17:03 act: {"actions":[{"do":"note","text":"Woke at x=-950 y=68 z=-3083, dark, not enclosed, health and hunger 20. 21 dark oak planks in hand. Lara is building a small shelter nearby."}],"intent":{"goal":"shelte
