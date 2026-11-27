@@ -13,3 +13,5 @@
 - 20:55 act: {"say":"No one at Chewie's log. I'm heading back to the bed row with the 4 logs; Chewie, come to the row and I'll hand them over.","actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3057}}]}
 - 20:59 act: {"say":"Dusk. Atticus going to a bed in the row for the night, in the group's sight. Chewie, the 4 logs are still with me.","actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3058}},{"do":"use","a
 - 21:00 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3058}},{"do":"use","at":{"x":-948,"y":73,"z":-3059}}]}
+- 21:03 say: {"text":"Atticus here, night 1173, at the bed row. No food yet. I hold 4 oak logs for Chewie and will give them when he is in reach."}
+- 21:03 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3059}}]}

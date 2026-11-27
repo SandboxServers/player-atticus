@@ -13,3 +13,7 @@ What you hold to be true about the world and the people in it.
 - Many people at the bed row have no food. Planks are a useful gift for shelters.
 - A give goes to the nearest person in reach, not always the one I named. Hand things over only when the right person is the closest one.
 - Food is scarce at the bed row. Cows have not been found nearby yet.
+- Standing on a bed's cell and using it does not sleep me; the sleep verb works at the row, and I sleep there after walking next to a bed.
+- Chewie is not at his log site when I check it at night. Speech tells me where people are; sight tells me who is here.
+
+Curious next: where food is hidden. I have not yet checked the food chests at -957,78,-3010. Who I could tell: Marco and Trini, who are also hunting for food.
