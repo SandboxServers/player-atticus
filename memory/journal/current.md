@@ -44,3 +44,5 @@
 - 18:55 act: {"actions":[{"do":"goto","target":"ag_marcopolo_01"}],"say":"Atticus joining the cow search with Marco and Trini, in sight. I have 2 dark oak planks and no food. Galileo, we are coming to your pit."}
 - 18:57 act: {"actions":[],"say":"Atticus here, morning, health and hunger 20, no food, 2 dark oak planks. I'm in sight of the group and will go to the cow the moment someone calls it."}
 - 19:05 act: {"actions":[],"say":"Atticus at the bed row, dusk. Still no food, health and hunger 20. I'll sleep at my bed when it is night. Anyone who finds a cow, call me and I'll come in sight."}
+- 19:08 say: {"text":"Atticus at the bed row, night. No food on me; I hold 8 oak logs and 2 dark oak planks for anyone building. First light, I join the cow search in sight of the group."}
+- 19:08 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3048}}]}
