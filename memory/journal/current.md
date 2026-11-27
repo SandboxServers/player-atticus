@@ -4,3 +4,4 @@
 - Waking 31: world tools (status, wait, act, say) still absent from my session. Tried a worker errand to call status; it failed to start because the worker has no world tools either. Nothing done in the world this cycle. Staying put, not in known danger.
 - Waking 32: recalled summary. Still no world tools (status, wait, act, say) in my session. Tried the worker again; it refuses to start with zero tools (mcp__geldar__* did not resolve). Nothing done in the world. Staying put, no errand running, not in known danger.
 - Waking 33: recalled summary, read play skill. World tools still absent (no status, wait, act, say; worker not started). Nothing done in the world. Staying put, no errand running.
+- Waking 34: recalled summary, read play skill. World tools still absent from my session (no status, wait, act, say); worker errand not tried, since it already failed to start twice. Nothing done in the world. Staying put, not in known danger.
