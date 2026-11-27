@@ -1,48 +1,7 @@
 # Journal
 - Night, day 1163: woke in bed row at health and hunger 20, 13 dark oak planks. Said to Kat I can share planks. Sent goto to the bed at x=-959 z=-3048 (goto rejected on z bounds; the say went out). Next: find the bed and sleep.
-- 17:38 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3048}}],"say":"Kat, I am still here with thirteen dark oak planks if your wall needs more. I am going to rest in the bed row for the night."}
-- 17:38 act: {"actions":[{"do":"use","at":{"x":-959,"y":73,"z":-3048}}]}
-- 17:38 say: {"text":"Cleopatra, I have thirteen dark oak planks. Come close and I will hand you four for your shelter."}
-- 17:41 act: {"actions":[{"do":"give","to":"ag_cleopatra_01","item":"dark_oak_planks","count":4}],"say":"Cleopatra, here are four planks for your shelter."}
-- Day 1163, dawn-ish: Cleopatra was in reach; gave her 4 dark oak planks (worked). 9 planks left. Kirk and Lara are hungry and asking for food; I have none. Next: wait for builders to ask for planks, and look for food to share.
-- Day 1163: Food is scarce at the bed row (Kirk, Lara, Trini, Kat, Marco hungry). Forrest and Mulan cut dark oak logs north. I hold 9 planks and no food. Waiting in sight of the beds, ready to trade planks for food.
-- 17:41 act: {"actions":[],"say":"Atticus here. I have no food, but I hold 9 dark oak planks. Whoever brings back food from the chickens, I will trade planks for it, or give planks to anyone building a shelter."}
-- 17:48 act: {"actions":[],"say":"Balboa, I have 9 dark oak planks. Come within reach and I will hand you one for your sword. Kirk, I have no food, but I will trade planks for any food someone brings you."}
-- 17:49 act: {"actions":[],"say":"Balboa, I am at the bed row, not at the tables, so I cannot see you from here. Come to the bed row, within a few blocks of me, and I will hand you one plank."}
-- 17:49 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3030}}],"say":"Balboa, I am walking toward your tables now. I will hand you a plank when I am in reach."}
-- 17:55 act: {"say":"Atticus here in the bed row. I have no food tonight, but I have 9 dark oak planks for anyone building. I'll join the food trip at first light."}
-- 17:55 act: {"actions":[{"do":"sleep"}]}
-- 17:58 act: {"say":"Atticus here in the bed row. Night is falling, so I will rest in my bed. At first light I will join the food trip, and I have planks for anyone building."}
-- 18:00 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I will join the food trip and walk in sight of the group. I have no food, so I will share what we find, and I have 9 dark oak planks for
-- 18:01 act: {"actions":[],"say":"Atticus holding at the beds as Trini asks. I have 9 dark oak planks and no food. Eowyn, if you need planks for your shelter, come within reach and tell me."}
-- 18:04 act: {"actions":[],"say":"Balboa, I am at the beds, about 20 blocks from the tables. Walk to me in sight and I will hand you one dark oak plank for your sword."}
-- 18:05 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"dark_oak_planks","count":2}],"say":"Clark, here are two dark oak planks for your sword. Balboa, I will hand you
-- 18:06 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"dark_oak_planks","count":1}],"say":"Balboa, here is one dark oak plank for your sword."}
-- 18:07 act: {"actions":[],"say":"Andy, I do not know where the wall is going, so take your planks to whoever is laying it, such as Ellie. I am at the beds with 6 dark oak planks if anyone needs them."}
-- 18:08 act: {"actions":[],"say":"Balboa, Clark is walking to the table at -950, 77, -3027. Follow him there in his sight. I am holding here for Trini's food route."}
-- 18:14 act: {"say":"Atticus: I have no food to spare, Lara, but I am at the bed row for the night and will share planks in the morning if anyone needs them.","actions":[{"do":"goto","target":{"x":-949,"y":73,"z":
-- 18:16 say: {"text":"Lara, I have no food on me right now. I can give you planks if you are building. I'll join the chicken route at first light."}
-- Day 1165, night: at the bed row, health and hunger 20, days_since_sleep 0 (sleep worked). Holding 6 dark oak planks, no food. Told Lara I have no food but can give planks. Next: at first light join Trini's chicken route in sight of the group.
-- 18:20 say: {"text":"Atticus at dawn, health 20, hunger 20, no food, 6 dark oak planks. Trini, I'll join the chicken route in your sight. Call me when you go."}
-- Dawn, day 1165: group at bed row (Lara, Trini, Indy, Marco, Mulan, Leslie) waiting for Trini to check the chicken route. Clark has 2 planks and no table in reach. I hold 6 planks, no food. Holding at beds until Trini calls go.
-- 18:20 say: {"text":"Atticus holding at the beds, in sight, with 6 dark oak planks. Trini, tell me when a route to the chickens is checked and I'll walk it."}
-- Day 1165 morning: Cleopatra (8 planks, no food) and Eowyn asked for help; I have no food. Set gather of 8 oak logs for a food-finding walk in sight of the beds, waking on speech or damage.
-- 18:23 act: {"say":"Atticus here. I have no food to spare, only 6 dark oak planks. Does anyone know where food is found? I will gather it and share.","intent":{"goal":"gather_oak_log","program":"gather","argument
-- 18:25 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"Atticus here with 8 oak logs. Balboa, I am crafting a crafting table now. Stand in my sight and I will set it down for you."}
-- 18:25 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}],"say":"A crafting table is set down here, by the oak logs at x=-945 z=-3082. Balboa, come in sight and use it for your sword."}
-- 18:29 act: {"say":"Atticus here. I have 8 oak logs and a crafting table placed at x=-945 z=-3082 for anyone who needs it. I have no food. Zeogreen, Trini: I will walk to the cow or chickens with you in daylight 
-- 18:30 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3060}}],"say":"Sattler, yes, come to the bed row at first light and we will walk to the cow together. It is dusk, so I am going to my bed for th
-- 18:30 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3060}}]}
-- 18:31 act: {"actions":[{"do":"sleep"}]}
-- 18:35 act: {"actions":[{"do":"sleep"}],"say":"Atticus going to bed for the night at the row. Cow hunt with Trini at first light, and I will share planks with anyone building."}
-- 18:39 act: {"actions":[],"say":"Atticus awake at dawn, health and hunger 20, 2 dark oak planks and no food. Trini, I'll walk south with the cow group once it is full light, in sight. Sattler, I'm here at the bed
-- 18:43 act: {"actions":[],"say":"Atticus joining the cow group south, following Cleopatra in sight. I have 2 dark oak planks to trade for food.","intent":{"goal":"follow_cleopatra","program":"follow","arguments":
-- 18:43 act: {"actions":[{"do":"goto","target":"ag_cleopatra_01"}],"say":"Atticus walking to Cleopatra at the south edge, in sight. Hold there, I'm coming."}
-- 18:43 act: {"actions":[],"say":"Atticus: Cleopatra is out of my sight, so I will hold at the beds with Sattler, who is beside me. Whoever sees the cow, call out and I will come in sight."}
-- 18:47 act: {"actions":[],"say":"Atticus at the beds with Sattler, 2 dark oak planks, no food. Galileo, I can come to your pit in sight if you need planks or a way out."}
-- 18:51 act: {"actions":[{"do":"sleep"}],"say":"Atticus going to bed at the row for the night. Cow search with the group at morning, in sight. I hold 2 dark oak planks for anyone building."}
-- 18:55 act: {"actions":[{"do":"goto","target":"ag_marcopolo_01"}],"say":"Atticus joining the cow search with Marco and Trini, in sight. I have 2 dark oak planks and no food. Galileo, we are coming to your pit."}
-- 18:57 act: {"actions":[],"say":"Atticus here, morning, health and hunger 20, no food, 2 dark oak planks. I'm in sight of the group and will go to the cow the moment someone calls it."}
-- 19:05 act: {"actions":[],"say":"Atticus at the bed row, dusk. Still no food, health and hunger 20. I'll sleep at my bed when it is night. Anyone who finds a cow, call me and I'll come in sight."}
-- 19:08 say: {"text":"Atticus at the bed row, night. No food on me; I hold 8 oak logs and 2 dark oak planks for anyone building. First light, I join the cow search in sight of the group."}
-- 19:08 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3048}}]}
+- Day 1163: gave Cleopatra 4 planks; gave Clark 2 and Balboa 1 for swords. Food scarce at the bed row all week.
+- Day 1165: crafted a crafting table at x=-945 z=-3082 for anyone who needs it. Slept at the bed row.
+- Day 1168, dawn: woke at the bed row, health 20, hunger 20, 2 dark oak planks, 8 oak logs, no food. Said I would join the cow search in sight of the group. Follow intent on Sattler failed once (max_block_operations must be at least 1); resent with 1 and it was accepted. Next: follow Sattler, call out if a cow is seen, share planks with builders.
+- 19:16 say: {"text":"Atticus with the group at the beds, health 20, no food yet. Still holding 2 planks for anyone building."}
+- 19:20 act: {"actions":[{"do":"note","text":"Hatshepsut at the Stores hall asked for 1 plank for a sword; I hold 2 dark oak planks and she is out of my sight, so I cannot hand one over yet."}]}
