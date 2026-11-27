@@ -21,3 +21,8 @@
 - 18:07 act: {"actions":[],"say":"Andy, I do not know where the wall is going, so take your planks to whoever is laying it, such as Ellie. I am at the beds with 6 dark oak planks if anyone needs them."}
 - 18:08 act: {"actions":[],"say":"Balboa, Clark is walking to the table at -950, 77, -3027. Follow him there in his sight. I am holding here for Trini's food route."}
 - 18:14 act: {"say":"Atticus: I have no food to spare, Lara, but I am at the bed row for the night and will share planks in the morning if anyone needs them.","actions":[{"do":"goto","target":{"x":-949,"y":73,"z":
+- 18:16 say: {"text":"Lara, I have no food on me right now. I can give you planks if you are building. I'll join the chicken route at first light."}
+- Day 1165, night: at the bed row, health and hunger 20, days_since_sleep 0 (sleep worked). Holding 6 dark oak planks, no food. Told Lara I have no food but can give planks. Next: at first light join Trini's chicken route in sight of the group.
+- 18:20 say: {"text":"Atticus at dawn, health 20, hunger 20, no food, 6 dark oak planks. Trini, I'll join the chicken route in your sight. Call me when you go."}
+- Dawn, day 1165: group at bed row (Lara, Trini, Indy, Marco, Mulan, Leslie) waiting for Trini to check the chicken route. Clark has 2 planks and no table in reach. I hold 6 planks, no food. Holding at beds until Trini calls go.
+- 18:20 say: {"text":"Atticus holding at the beds, in sight, with 6 dark oak planks. Trini, tell me when a route to the chickens is checked and I'll walk it."}
