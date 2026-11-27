@@ -10,3 +10,5 @@
 - 17:48 act: {"actions":[],"say":"Balboa, I have 9 dark oak planks. Come within reach and I will hand you one for your sword. Kirk, I have no food, but I will trade planks for any food someone brings you."}
 - 17:49 act: {"actions":[],"say":"Balboa, I am at the bed row, not at the tables, so I cannot see you from here. Come to the bed row, within a few blocks of me, and I will hand you one plank."}
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3030}}],"say":"Balboa, I am walking toward your tables now. I will hand you a plank when I am in reach."}
+- 17:55 act: {"say":"Atticus here in the bed row. I have no food tonight, but I have 9 dark oak planks for anyone building. I'll join the food trip at first light."}
+- 17:55 act: {"actions":[{"do":"sleep"}]}
