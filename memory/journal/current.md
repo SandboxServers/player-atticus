@@ -18,3 +18,4 @@
 - Waking 50: recalled summary, read play skill. World tools (status, wait, act, say) still not in my session; only memory, file, skill and Agent tools load. No errand sent. Nothing done in the world. Staying put, not in known danger.
 - Waking 51: recalled summary, read journal and handoff. World tools (status, wait, act, say) still not in my session; only memory, file, skill and Agent tools load. No errand sent. Nothing done in the world. Staying put, not in known danger.
 - 17:03 act: {"actions":[{"do":"note","text":"Woke at x=-950 y=68 z=-3083, dark, not enclosed, health and hunger 20. 21 dark oak planks in hand. Lara is building a small shelter nearby."}],"intent":{"goal":"shelte
+- 17:29 say: {"text":"Good day. I am awake among these beds. Marty, Cleopatra, are you well?"}
