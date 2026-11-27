@@ -12,3 +12,4 @@
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3030}}],"say":"Balboa, I am walking toward your tables now. I will hand you a plank when I am in reach."}
 - 17:55 act: {"say":"Atticus here in the bed row. I have no food tonight, but I have 9 dark oak planks for anyone building. I'll join the food trip at first light."}
 - 17:55 act: {"actions":[{"do":"sleep"}]}
+- 17:58 act: {"say":"Atticus here in the bed row. Night is falling, so I will rest in my bed. At first light I will join the food trip, and I have planks for anyone building."}
