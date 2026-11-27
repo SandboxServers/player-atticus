@@ -20,3 +20,4 @@
 - 18:06 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"dark_oak_planks","count":1}],"say":"Balboa, here is one dark oak plank for your sword."}
 - 18:07 act: {"actions":[],"say":"Andy, I do not know where the wall is going, so take your planks to whoever is laying it, such as Ellie. I am at the beds with 6 dark oak planks if anyone needs them."}
 - 18:08 act: {"actions":[],"say":"Balboa, Clark is walking to the table at -950, 77, -3027. Follow him there in his sight. I am holding here for Trini's food route."}
+- 18:14 act: {"say":"Atticus: I have no food to spare, Lara, but I am at the bed row for the night and will share planks in the morning if anyone needs them.","actions":[{"do":"goto","target":{"x":-949,"y":73,"z":
