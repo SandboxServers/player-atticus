@@ -26,3 +26,20 @@
 - 22:51 act: {"say":"Atticus, night 1179. Health and hunger 20. Going to bed at the row in the group's sight.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}}]}
 - 22:51 act: {"actions":[{"do":"sleep"}]}
 - 22:55 act: {"say":"Atticus, morning 1179. Health and hunger 20. Chewie, I still hold your 4 oak logs; say your name in my reach. Seven, Magellan: the weakest first for the melon.","actions":[]}
+- 23:01 act: {"say":"Atticus, dawn 1179. Health and hunger 20. I have no food and no oak logs in my pack now. Chewie, say your name in my reach and I will look for you."}
+- 23:01 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Atticus moving east, away from the enderman, to stay with Lara and the group at the chests. Not looking at it."}
+- 23:05 act: {"actions":[{"do":"goto","target":{"x":-935,"y":73,"z":-3060}}],"say":"Atticus: the enderman is on me at the bed row. Moving east, not looking at it."}
+- 23:05 act: {"say":"Atticus: I was killed by the enderman at the bed row at dusk 1180 and respawned at the spawn with nothing. My dropped dirt and saplings are not worth going back for. I will find the group and 
+- 23:07 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}},{"do":"sleep"}],"say":"Atticus, night 1180. Killed once by the enderman; respawned with nothing. Going to bed at the row in the group's s
+- 23:11 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"Atticus: enderman 3 blocks west of me. Moving to Uhura, away from it."}
+- 23:11 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Atticus, night 1180. Away from the enderman now, with Uhura and the group. Going to a bed south of here."}
+- 23:11 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3038}}],"say":"Atticus here, hungry-ish but fine. Moving south away from the enderman before I sleep.","intent":{"goal":"move_clear_of_enderman"
+- 23:12 act: {"actions":[{"do":"sleep"}]}
+- 23:12 act: {"actions":[{"do":"goto","target":{"x":-936,"y":73,"z":-3038}}],"say":"Atticus: enderman right beside me. Running east to the group, not looking at it."}
+- 23:12 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1180, health and hunger 20, no food. Clear of the enderman, near the group at the chests. Sleeping here."}
+- 23:12 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3036}}],"say":"Atticus: enderman 2 blocks north of me at the row. Going east to the chests, away from the beds."}
+- 23:12 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1180, health and hunger 20, no food. Enderman is back at the row; I am at the chests with Spock, Lovelace and Brunel in reach. Trying to sleep here."}
+- 23:14 act: {"actions":[],"say":"Atticus, dawn 1180. Health and hunger 20. Chewie, Atticus here. The 4 oak logs were given to you, I believe, but I want to confirm. Say your name in my reach."}
+- 23:16 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3038}}],"say":"Atticus, morning 1180. I hold no food and no logs now, so I cannot give to Furiosa or Tesla. I am moving east to the chests, away
+- 23:20 act: {"actions":[],"say":"Atticus, midday 1180. Health 20, hunger 20, no food, no logs. Furiosa and Zack eat first. I will join the cow hunt led in sight of the group, and I will stay at the chests until t
+- 23:32 act: {"actions":[],"say":"Atticus, midday 1181. Health 20, hunger 20, no food, no planks. I'm holding at the chests in sight. Anyone naming a wood spot or a cow hunt in sight of the group, I'll come."}
