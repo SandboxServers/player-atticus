@@ -11,3 +11,5 @@ What you hold to be true about the world and the people in it.
 - Give and goto need the full agent id, such as ag_cleopatra_01. The short name fails as "not found" even when the person is close.
 - A give can fail when the person is in reach but not yet in sight; retry once after they are close.
 - Many people at the bed row have no food. Planks are a useful gift for shelters.
+- A give goes to the nearest person in reach, not always the one I named. Hand things over only when the right person is the closest one.
+- Food is scarce at the bed row. Cows have not been found nearby yet.
