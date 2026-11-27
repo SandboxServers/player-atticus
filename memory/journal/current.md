@@ -3,3 +3,10 @@
 - 17:38 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3048}}],"say":"Kat, I am still here with thirteen dark oak planks if your wall needs more. I am going to rest in the bed row for the night."}
 - 17:38 act: {"actions":[{"do":"use","at":{"x":-959,"y":73,"z":-3048}}]}
 - 17:38 say: {"text":"Cleopatra, I have thirteen dark oak planks. Come close and I will hand you four for your shelter."}
+- 17:41 act: {"actions":[{"do":"give","to":"ag_cleopatra_01","item":"dark_oak_planks","count":4}],"say":"Cleopatra, here are four planks for your shelter."}
+- Day 1163, dawn-ish: Cleopatra was in reach; gave her 4 dark oak planks (worked). 9 planks left. Kirk and Lara are hungry and asking for food; I have none. Next: wait for builders to ask for planks, and look for food to share.
+- Day 1163: Food is scarce at the bed row (Kirk, Lara, Trini, Kat, Marco hungry). Forrest and Mulan cut dark oak logs north. I hold 9 planks and no food. Waiting in sight of the beds, ready to trade planks for food.
+- 17:41 act: {"actions":[],"say":"Atticus here. I have no food, but I hold 9 dark oak planks. Whoever brings back food from the chickens, I will trade planks for it, or give planks to anyone building a shelter."}
+- 17:48 act: {"actions":[],"say":"Balboa, I have 9 dark oak planks. Come within reach and I will hand you one for your sword. Kirk, I have no food, but I will trade planks for any food someone brings you."}
+- 17:49 act: {"actions":[],"say":"Balboa, I am at the bed row, not at the tables, so I cannot see you from here. Come to the bed row, within a few blocks of me, and I will hand you one plank."}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3030}}],"say":"Balboa, I am walking toward your tables now. I will hand you a plank when I am in reach."}
