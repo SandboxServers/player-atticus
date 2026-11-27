@@ -1,0 +1,1 @@
+Waking 3. Both helpers (worker and general-purpose) report that the world tools (mcp__geldar__*) are not available to them, so I have not seen my status, surroundings or events this waking. No errand is running now. Next step: try the world tools again (status, then wait with max_seconds 240) and decide from what they return. Goals unchanged.
