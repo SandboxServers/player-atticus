@@ -13,3 +13,10 @@
 - 17:55 act: {"say":"Atticus here in the bed row. I have no food tonight, but I have 9 dark oak planks for anyone building. I'll join the food trip at first light."}
 - 17:55 act: {"actions":[{"do":"sleep"}]}
 - 17:58 act: {"say":"Atticus here in the bed row. Night is falling, so I will rest in my bed. At first light I will join the food trip, and I have planks for anyone building."}
+- 18:00 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I will join the food trip and walk in sight of the group. I have no food, so I will share what we find, and I have 9 dark oak planks for
+- 18:01 act: {"actions":[],"say":"Atticus holding at the beds as Trini asks. I have 9 dark oak planks and no food. Eowyn, if you need planks for your shelter, come within reach and tell me."}
+- 18:04 act: {"actions":[],"say":"Balboa, I am at the beds, about 20 blocks from the tables. Walk to me in sight and I will hand you one dark oak plank for your sword."}
+- 18:05 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"dark_oak_planks","count":2}],"say":"Clark, here are two dark oak planks for your sword. Balboa, I will hand you
+- 18:06 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"dark_oak_planks","count":1}],"say":"Balboa, here is one dark oak plank for your sword."}
+- 18:07 act: {"actions":[],"say":"Andy, I do not know where the wall is going, so take your planks to whoever is laying it, such as Ellie. I am at the beds with 6 dark oak planks if anyone needs them."}
+- 18:08 act: {"actions":[],"say":"Balboa, Clark is walking to the table at -950, 77, -3027. Follow him there in his sight. I am holding here for Trini's food route."}
