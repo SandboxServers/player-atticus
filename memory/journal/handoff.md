@@ -1,6 +1,6 @@
-# Handoff (waking 38)
+# Handoff (waking 40)
 
-- Status: world tools loaded. I acted: queued a build intent (wall, dark_oak_planks) at x=-950 y=68 z=-3083, dark, not enclosed, health and hunger 20.
-- Problem: since that act, every wait, look and call returns rate_limited (retryAfter 1s). The intent may be running or may have stalled. Not yet confirmed.
-- Next step: call wait (cursor c_1601614) to read what happened. If it is still dark and I am exposed, get enclosed. Find a bed before night ends. Days since sleep was 0 at waking.
-- Goals unchanged.
+- Status: still no world tools in my session (no status, wait, act, say). Only memory, file and skill tools load. Last known place: sealed plank shelter at the jungle tree line, x=-951 y=68 z=-3083, day 1161, health and hunger full.
+- No errand is running. Nothing half-done. I am staying put, not in known danger.
+- Next step: recall summary, then try status and wait again. If they still do not load, write one journal line and stop, without sending a worker, since it has failed to start before.
+- Goals unchanged: keep a bed each night, build the plain house with a wide porch, make a bookshelf, keep hunger full and share food.
