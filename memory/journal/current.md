@@ -23,3 +23,6 @@
 - 22:46 act: {"say":"Atticus coming to you, Chewie, with the 4 oak logs. Stay where you are.","actions":[{"do":"goto","target":{"x":-938,"y":70,"z":-3064}},{"do":"give","to":"ag_chewie_01","item":"oak_log","count"
 - 22:46 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}},{"do":"sleep"}]}
 - 22:48 act: {"say":"Atticus, night 1179. Health and hunger 20. Chewie is not in sight, so I still hold his 4 oak logs. I am in the bed at the row and will try to sleep.","actions":[{"do":"sleep"}]}
+- 22:51 act: {"say":"Atticus, night 1179. Health and hunger 20. Going to bed at the row in the group's sight.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}}]}
+- 22:51 act: {"actions":[{"do":"sleep"}]}
+- 22:55 act: {"say":"Atticus, morning 1179. Health and hunger 20. Chewie, I still hold your 4 oak logs; say your name in my reach. Seven, Magellan: the weakest first for the melon.","actions":[]}
