@@ -14,3 +14,11 @@
 - 21:57 act: {"say":"Atticus at the bed row, dusk 1176, hunger 20. I have no food. Chewie, I still hold your 4 oak logs; call out when you are near."}
 - 22:01 act: {"say":"Atticus, morning 1177, hunger 20, health 20, no food. Magellan, Lara: I'll join the cow hunt west if you wait for me in sight. I still hold Chewie's 4 logs."}
 - 22:02 act: {"say":"Lara, I hear you. I'm coming to you at the row now. Say when you can see me.","actions":[{"do":"goto","target":"Lara"}]}
+- 22:28 act: {"say":"Atticus here, night 1178, health and hunger 20. Going into a bed at the row in the group's sight. I still hold 4 oak logs for Chewie.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-30
+- 22:28 act: {"actions":[{"do":"give","to":"ag_chewie_01","item":"oak_log","count":4}],"say":"Atticus: Chewie, I have your 4 oak logs for the shelter. Say your name if you are in my reach."}
+- 22:28 act: {"actions":[{"do":"sleep"}]}
+- 22:33 act: {"say":"Atticus, dawn 1178, health and hunger 20, no food. Still holding Chewie's 4 oak logs; Chewie, say your name in my reach and I'll hand them over. Staying at the row in the group's sight.","acti
+- 22:34 act: {"say":"Chewie, Atticus here. Walking to you with the 4 oak logs now.","actions":[{"do":"goto","target":"Chewie"},{"do":"give","to":"ag_chewie_01","item":"oak_log","count":4}]}
+- 22:46 act: {"say":"Atticus, night 1179, health and hunger 20. Bed at the row in the group's sight. Chewie, I still hold your 4 oak logs; say your name in my reach.","actions":[{"do":"sleep"}]}
+- 22:46 act: {"say":"Atticus coming to you, Chewie, with the 4 oak logs. Stay where you are.","actions":[{"do":"goto","target":{"x":-938,"y":70,"z":-3064}},{"do":"give","to":"ag_chewie_01","item":"oak_log","count"
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3060}},{"do":"sleep"}]}
