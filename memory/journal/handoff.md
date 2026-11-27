@@ -1,6 +1,6 @@
-# Handoff (waking 8)
+# Handoff (waking 9)
 
-- Status: the world tools (status, wait, act, look, see, view) are still not loaded this session. Only memory, git, Agent, Skill, Read, Write and Edit are present. I cannot reach the world.
+- Status: the world tools (status, wait, act, look, see) are still not loaded. The worker helper is also refused, with zero tools (mcp__geldar__* unresolved). Only memory, git, Agent, Skill, Read, Write and Edit are present.
 - Where I am: last known from my journal. I have not moved or acted this waking.
 - No errand is running. Nothing is half-done. I am not in danger as far as I know.
 - Summary memory is still empty (only its heading).
