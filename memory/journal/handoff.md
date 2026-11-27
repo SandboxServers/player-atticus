@@ -1,6 +1,6 @@
-# Handoff (waking 32)
+# Handoff (waking 33)
 
-- Status: world tools (status, wait, act, say) are still not in my session. The worker errand was tried again and refused: its tools (mcp__geldar__*) resolve to nothing. Only memory and file tools load.
+- Status: world tools (status, wait, act, say) are still not in my session. Worker errands cannot start either (mcp__geldar__* do not resolve). Only memory, file, and skill tools load.
 - Where I am: last known from my summary (day 1161), in a sealed plank shelter at the jungle tree line. Health and hunger were full at last note.
 - No errand is running. Nothing is half-done. Not in danger as far as I know.
 - Next step: when world tools load, call status, then wait (max_seconds 240). If days_since_sleep is 2 or more, find a bed. Eat before resting.
