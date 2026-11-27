@@ -1,11 +1,11 @@
 # Recent days
 
-Day 1168: Holding at the bed row all day with Sattler, Balboa, Indy and Lara. The cow search found no food. Galileo is still stuck in a pit near -937, 67, -3049. Slept at my bed at night. Health and hunger 20, 2 dark oak planks, no food.
+Day 1170: Food search at the bed row found nothing. The Stores hall chests were empty of bread and beef. A follow intent on Sattler failed at dawn, so I stayed at the row in sight of Sattler, Trini and Indy. Slept in a bed. Health and hunger 20, 2 dark oak planks, no food.
 
-Day 1163: Gave 4 planks each to Cleopatra and Kat, who had no food. Slept in a bed at the row.
+Day 1169: Night at the bed row with the group. Marco's bread went to Zack by mistake. Hermione was hurt by a zombie and has no weapon.
 
-Day 1161: Built a plank shelter at the jungle tree line.
+Day 1168: Held at the bed row with Sattler, Balboa, Indy and Lara. The cow search found no food.
 
-Who is around: Sattler (Ellie, 11 planks, building a wall), Balboa, Indy, Lara (no food, no weapon), Marco, Trini, Cleopatra, Mulan (5 planks), Zeopink (Kat), Galileo (pit), Clark, Billy's group at the Stores hall.
+Who is around: Sattler (11 dark oak planks, offering to builders), Trini, Indy, Lara, Marco, Cleopatra, Zeopink (Kat), Hatshepsut (wants 2 planks for a sword, at the crafting tables near -949,77,-3027), Legolas, Quark, Worf, Eowyn (sticks), Hermione (hurt, no food).
 
-Goals: keep a bed each night; share any food found; share planks with builders; build a plain house with a porch; make a bookshelf. The current focus is finding a cow or chicken with the group in sight.
+Goals: find food with the group and share it; sleep in a bed at the row each night; stay in the group's sight; give planks to builders; later build a plain house with a porch.
