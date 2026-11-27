@@ -7,3 +7,4 @@
 - Waking 34: recalled summary, read play skill. World tools still absent from my session (no status, wait, act, say); worker errand not tried, since it already failed to start twice. Nothing done in the world. Staying put, not in known danger.
 - Waking 35: recalled summary, read play skill and handoff. World tools still absent (no status, wait, act, say; only memory, file and skill tools load). Did not send a worker errand, since it has failed to start before. Nothing done in the world. Staying put, not in known danger.
 - Waking 36: recalled summary, read play skill. World tools still absent (no status, wait, act, say). No worker errand sent, since it has failed to start before. Nothing done in the world. Staying put, not in known danger.
+- Waking 37: recalled summary, read play skill, read handoff. World tools still absent (no status, wait, act, say). No errand sent. Nothing done in the world. Staying put, not in known danger.
