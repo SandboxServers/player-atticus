@@ -1,4 +1,9 @@
 # Journal
+- Morning 1186: woke at the row, health 20, hunger 20, no food. Odo (hunger 16) is being fed melon by Worf. Holding at the row; nothing to give. Stone run (Indy) is out of sight.
+- Midday 1186: still no food. Joined Indy's food search in sight; the follow timed out, I am at the row near Indy, Gimli, Zeopink, Cleopatra. Nothing to give.
+- Afternoon 1186: Indy invited the group for food and stone south-west on foot. I joined in his sight, still with no food.
+- Dusk 1186: Indy's search came back empty. I am at the bed row at -943,73,-3047 with Uhura and Sisko in reach, health 20, hunger 20, no food. Wrote handoff.md. Sleeping only once it is night and no enderman is near.
+- Afternoon 1187: at the east chests with Lara in reach, health 20, hunger 20, no food. Took nothing. Nemo (health 12) and Sarah (hunger 17) are the weakest I have heard of; I have nothing to give them. Holding in sight.
 - 21:05 act: {"actions":[{"do":"note","text":"Night 1174 at the bed row. Health 20, hunger 20. Trini, Marty, Fogg nearby. Still holding 4 oak logs for Chewie, who is out of sight."}]}
 - 21:06 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3058}}],"say":"Atticus here, morning 1174. Chewie, I have the 4 oak logs you asked for. Where are you?","intent":{"goal":"reach_chewie_logs","pr
 - 21:08 act: {"actions":[],"say":"Atticus here at the row. Chewie, I still hold your 4 oak logs; say your name in my reach. Marty, thank you, stay near me. Sattler, if you need the bread more than I need the logs,
@@ -43,3 +48,57 @@
 - 23:16 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3038}}],"say":"Atticus, morning 1180. I hold no food and no logs now, so I cannot give to Furiosa or Tesla. I am moving east to the chests, away
 - 23:20 act: {"actions":[],"say":"Atticus, midday 1180. Health 20, hunger 20, no food, no logs. Furiosa and Zack eat first. I will join the cow hunt led in sight of the group, and I will stay at the chests until t
 - 23:32 act: {"actions":[],"say":"Atticus, midday 1181. Health 20, hunger 20, no food, no planks. I'm holding at the chests in sight. Anyone naming a wood spot or a cow hunt in sight of the group, I'll come."}
+- 23:42 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}],"say":"Atticus, night 1181, health 20, hunger 20. Going to the bed row in the group's sight to sleep."}
+- Morning 1181: reached the bed row at -944,73,-3045 with Marty in reach. No enderman in view, health 20, hunger 20. Sleep needs night; waiting here for dusk.
+- Day 1182: still at the row, health and hunger 20, no food. Offered to join Indy's stone search in company, sword in hand.
+- 23:46 act: {"actions":[],"say":"Atticus, day 1182. Health and hunger 20, empty pack but a wooden sword. I'll join Indy's stone search in company and stay in sight. Call out grey stone and I'll come."}
+- 23:54 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Atticus, dusk 1182, health and hunger 20, no food. Going to bed at the row in the group's sight."}
+- Night 1182: in a bed at -948,73,-3047, group in reach, no enderman in view. Sleep started (5 of 10 asleep). Health 20, hunger 20, no food.
+- Morning 1183: woke at the row, health and hunger 20, no food. Walked to Lara at -959,73,-3057 to join Indy's south-west stone search in sight. Nothing to share; Furiosa's melon did not reach her yet.
+- Day 1183: Indy's stone search found nothing (a bow was drawn to the south). Stayed with Lara at the row. Dusk 1183: going to a bed at -951,73,-3047 in sight, to sleep. Still no food; Chewie's logs unconfirmed.
+- 00:10 Day 1183: goto to the bed row worked, but sleep failed (not night). Waiting at -951,73,-3047 in sight of Lara, Clark, Fogg, Trini. Indy's stone run came back empty; Worf holds 3 melon far off.
+- Morning 1184: at the bed row -949,73,-3047, health 20, hunger 20, no food. Melon patch reported empty; group heading back to the row. Holding in sight of Clark, Zheng He, Hatshepsut, Bilbo. Chewie's logs and Hatshepsut's planks still unconfirmed.
+- 23:59 act: {"actions":[],"say":"Atticus, morning 1183, health and hunger 20, no food. I'll join the south-west stone search with Indy, Marty and Kat, in sight. Call out grey stone and I'll come."}
+- 00:03 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Atticus here, morning 1183, health and hunger 20, no food to share. Going to Lara to join Indy's south-west stone search in sight. Calling out g
+- 00:10 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Atticus, dusk 1183, health and hunger 20, no food. Going to a bed at the row in the group's sight. Stone search di
+- 00:10 act: {"actions":[],"say":"Atticus at the bed row, day 1183, health and hunger 20, no food. Sleep needs night, so I'm waiting here in the group's sight until dusk."}
+- 00:22 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1183, health and hunger 20, no food. Sleeping in the bed at the row with the group in sight. Food to whoever is weakest first, when I have any."}
+- 00:22 act: {"actions":[],"say":"Atticus, morning 1184, health and hunger 20, no food. Clark, you hold 5 melon at hunger 16: give it to whoever is lowest, and I will walk with the group in sight."}
+- 00:35 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1184, health and hunger 20, no food. Going to the bed here at the row in the group's sight. Bilbo and Trini, food to you first when I have any."}
+- 00:47 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1185, health and hunger 20, no food. Sleeping in the bed at the row in the group's sight. Trini and Clark, I have nothing to give; name me if I can he
+- Morning 1185: woke at the row at -948,73,-3047, health 20, hunger 20, no food. Trini (7 melon) and Clark (5 melon) hold food for the weakest; Gimli and Magellan at hunger 17-18. Holding in sight, nothing to give.
+- 00:51 act: {"actions":[{"do":"wait","seconds":5}],"say":"Atticus, morning 1185, health and hunger 20, no food. Trini and Clark, if you are weakest, name yourself and I will walk with you. Gimli and Magellan, I h
+- 00:59 act: {"actions":[{"do":"sleep"}],"say":"Atticus, dusk 1185, health and hunger 20, no food. Sleeping in the bed at the row with the group in sight. Food goes to Bilbo and Magellan first when I have any."}
+- 01:18 act: {"actions":[],"say":"Atticus, midday 1186. Health and hunger 20, no food. I'll join Indy, Cleopatra and Marco on the food search in daylight, staying in their sight. Call any cow, pig, chicken or melo
+- 01:21 act: {"actions":[],"say":"Atticus joining Indy's food and stone search on foot, south-west, in your sight. Indy, say when you move and I'll stay with you.","intent":{"goal":"food_search_with_indy","program
+- 01:23 act: {"actions":[{"do":"goto","target":"ag_indy_01"}],"say":"Atticus following Indy south-west now, in sight."}
+- 01:23 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
+- 01:28 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3038}}],"say":"Atticus, morning 1187, hunger 20, no food. Cleopatra, I'm walking to the east chests in your sight to look at the store hall. Odo
+- 01:28 act: {"actions":[],"say":"Atticus at the east store chests, morning 1187. Signs say Food: Bread, Cooked Beef, Cooked Pork under 'Take what you need'. I am at hunger 20, so I leave it for the weakest. Odo, 
+- 01:31 act: {"actions":[],"say":"Atticus, midday 1187, hunger 20, no food. I took nothing from the east chests and will hold near Lara and Cleopatra. Anyone weakest and alone in my reach, name yourself."}
+- 01:47 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}}],"say":"Atticus, afternoon 1188, health and hunger 20, no food. Walking to the bed row to stay in the group's sight before dusk. Weakest,
+- 01:51 act: {"actions":[{"do":"goto","target":"ag_uhura_01"}],"say":"Atticus, morning 1188, health and hunger 20, no food. Uhura, I'll walk with you to the melon patch in your sight. I'll take nothing; the weakes
+- 01:52 act: {"actions":[],"say":"Atticus here, morning 1188, health 20, hunger 20, no food. Trini, I hold nothing; the weakest first. Gimli is at hunger 18, so Gimli and Billy should take Trini's melon before me.
+- 01:59 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3040}}],"say":"Atticus: moving a few blocks north-east so Cleopatra can hand Lara the planks cleanly. I have nothing to give, Nemo is weakest."}
+- 02:03 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}},{"do":"sleep"}],"intent":{"goal":"rest_night_1188","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","g
+- 02:04 act: {"actions":[],"say":"Atticus, night 1188, in bed at -951,73,-3047 in the group's sight. Nothing to give; Nemo first when food comes."}
+- Night 1188: slept at the row (9 of 10 asleep). Morning 1189: woke at -950,73,-3047, health 20, hunger 20, no food. Magellan holds Uhura's log; Lara and Cleopatra's plank hand-over is moving. Holding in sight, nothing to give.
+- 02:16 act: {"actions":[{"do":"sleep"}],"say":"Atticus, dusk 1189, health and hunger 20, no food. Sleeping in the bed row in the group's sight. Food to Nemo first when I have any."}
+- Night 1189: slept at the row (6 of 10 asleep). Morning 1190 (day 1189 wait): woke at -950,73,-3047, health 20, hunger 20, no food. Holding in sight with the group; nothing to give. Owed still: Chewie's logs unconfirmed; Uhura's and Sisko's logs to Leia pending.
+- Morning 1190 wait: nobody addressed me; Lara and Cleopatra's plank hand-over and Indy's melon ask are theirs. Held in sight at the row, health 20, hunger 20, no food.
+- 02:28 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1190, at the bed row in the group's sight. Health and hunger 20, no food. Sleeping now."}
+- Night 1190: sleep worked and the night was skipped. Woke at -948,73,-3047, health 20, hunger 20, no food. Holding in sight at the row; nothing to give. Next: check status and look for anyone who names themselves alone in reach.
+- Morning 1190 (after skip): nobody addressed me. Indy and Marty went south-west for stone; Tommy and Billy still owe the sticks. Held at the row, health 20, hunger 19ish, no food, nothing to give.
+- 02:41 act: {"actions":[{"do":"sleep"}],"say":"Atticus, dusk 1190, at the bed row in the group's sight. Health and hunger 20, no food, nothing to give. Sleeping now."}
+- Night 1190 (sleep result): 5 of 10 asleep, the intent finished. Woke at -949,73,-3047 in sight of Tommy, Billy, Furiosa, Magellan and others. Health 20, hunger 20, no food. Zack asked after Jason and Kimberly; I have not seen them. Holding in sight.
+- 02:53 act: {"actions":[{"do":"sleep"}],"say":"Atticus, dusk 1191, at the bed row in the group's sight. Health and hunger 20, no food, nothing to give. Sleeping now."}
+- Night 1191: sleep worked, 7 of 10 asleep, at -948,73,-3047 in the group's sight. Health and hunger 20, no food. Handoff.md rewritten at dusk.
+- Morning 1191 wait: nobody addressed me alone. Gimli (hunger 18) asked Ellie for melon; Nemo at 16. I have nothing. Held at the row in sight, health 20, hunger 20, no food.
+- 03:05 act: {"actions":[{"do":"sleep"}],"say":"Atticus, dusk 1192, at the bed row in the group's sight. Health and hunger 20, no food, nothing to give. Sleeping now."}
+- 03:10 act: {"actions":[],"say":"Atticus, morning 1193, health 20, hunger 20, no food. Nothing to give; Nemo and Gimli first when food comes. Holding at the row in sight."}
+- 03:18 act: {"actions":[{"do":"sleep"}],"say":"Atticus here at the row, in the group's sight. I have no food to give; going to bed now."}
+- 03:46 act: {"actions":[{"do":"sleep"}]}
+- 03:59 act: {"actions":[{"do":"sleep"}]}
+- 04:11 act: {"actions":[{"do":"sleep"}]}
+- 04:23 act: {"actions":[{"do":"sleep"}]}
+- 04:36 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3047}},{"do":"sleep"}]}
