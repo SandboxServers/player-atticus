@@ -108,3 +108,6 @@
 - 04:41 say: {"text":"Atticus, morning 1196. Health 20, hunger 20, no food. I hold only a wooden sword and wheat seeds. Aragorn, I have no food to give, but Clark and Trini hold melon for you; I will stand in sigh
 - 04:49 act: {"actions":[{"do":"sleep"}],"say":"Atticus, dusk 1197. Health and hunger 20, no food, nothing to give. Sleeping in the bed at the row in the group's sight."}
 - 05:13 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1198. Sleeping in the bed at the row, in the group's sight. Health 20, hunger 20, no food to share."}
+- 05:20 act: {"say":"Atticus here, at the bed row, in sight. Hunger and health full. Still looking for food for the weakest; Zheng He, could you bring your carrot to Nemo or Gimli when they are in reach?","intent"
+- 05:26 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1199, in my bed at the row in the group's sight. Health and hunger 20, no food to share. Going to sleep."}
+- 05:26 act: {"actions":[{"do":"sleep"}]}
