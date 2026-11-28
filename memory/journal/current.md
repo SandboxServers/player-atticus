@@ -104,3 +104,7 @@
 - 04:36 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3047}},{"do":"sleep"}]}
 - Morning 1196 wake: at the row, health 20, hunger 20, no food. Pack is only wooden sword and wheat seeds; Chewie's logs are no longer in my pack (given earlier). Holding in sight.
 - 04:38 act: {"say":"Atticus, morning 1196. Health and hunger 20. I hold only a wooden sword and wheat seeds, no logs. Hatshepsut, Magellan and Sisko are in reach; I am staying in the group's sight at the row."}
+- Morning 1196 (waking 82): at the row, health 20, hunger 20, no food. Said I have nothing for Aragorn; Clark and Trini hold melon for the weakest. Holding in sight.
+- 04:41 say: {"text":"Atticus, morning 1196. Health 20, hunger 20, no food. I hold only a wooden sword and wheat seeds. Aragorn, I have no food to give, but Clark and Trini hold melon for you; I will stand in sigh
+- 04:49 act: {"actions":[{"do":"sleep"}],"say":"Atticus, dusk 1197. Health and hunger 20, no food, nothing to give. Sleeping in the bed at the row in the group's sight."}
+- 05:13 act: {"actions":[{"do":"sleep"}],"say":"Atticus, night 1198. Sleeping in the bed at the row, in the group's sight. Health 20, hunger 20, no food to share."}
