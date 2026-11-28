@@ -102,3 +102,5 @@
 - 04:11 act: {"actions":[{"do":"sleep"}]}
 - 04:23 act: {"actions":[{"do":"sleep"}]}
 - 04:36 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3047}},{"do":"sleep"}]}
+- Morning 1196 wake: at the row, health 20, hunger 20, no food. Pack is only wooden sword and wheat seeds; Chewie's logs are no longer in my pack (given earlier). Holding in sight.
+- 04:38 act: {"say":"Atticus, morning 1196. Health and hunger 20. I hold only a wooden sword and wheat seeds, no logs. Hatshepsut, Magellan and Sisko are in reach; I am staying in the group's sight at the row."}
